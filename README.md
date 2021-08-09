@@ -15,3 +15,5 @@
 • 找空项目架子 xxx starter / xxx boilerplate
 
 • 找教程  xxx tutorial
+# 清华镜像下载库
+• pip install -i https://pypi.tuna.tsinghua.edu.cn/simple 库
